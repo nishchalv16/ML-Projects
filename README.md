@@ -1,1 +1,1 @@
-The Project aims to analyse the companies financial metrics and to predict whether the company has tampered their financial data. The anylisis involes data mining, modelling, cleaning, missing values handling and use case and comparison of various ML algorithms  
+The Project aims to analyse the companies financial metrics and to predict whether the company has tampered their earnings financial data. The anylisis involes data mining, modelling, cleaning, missing values handling and use case and comparison of various ML algorithms  
